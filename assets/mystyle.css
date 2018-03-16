@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 5, 2016, 12:40:10 PM
+    Author     : Kenny
+*/
+
+.dropdown-menu {
+    
+    min-width: 200px;
+    
+}
+
+.dropdown .dropdown-menu li .input-group {
+    
+    width: 90%;
+    
+}
+
+.dropdown .dropdown-menu li .input-group .btn {
+    
+    width: 100%;
+    
+}
+
+.dropdown .dropdown-menu li:last-child {
+    
+    line-height: 50px;
+    
+}
+
+.btn {
+    font-size: 13px;
+}
+
+.dropdown .regiterbtn {
+    
+    min-width: 235px;
+    
+}
